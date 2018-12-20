@@ -24,7 +24,7 @@ class ColorPanel extends JPanel {
     this.setLayout(layout);
 
     Color colors[] = {
-      Color.BLACK, Color.DARK_GRAY, Color.LIGHT_GRAY, Color.GRAY, Color.WHITE,
+      Color.BLACK, Color.DARK_GRAY, Color.GRAY, Color.LIGHT_GRAY, Color.WHITE,
       Color.PINK, Color.MAGENTA, Color.RED, Color.ORANGE, Color.YELLOW,
       Color.GREEN, Color.BLUE, Color.CYAN
     };
